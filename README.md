@@ -28,3 +28,4 @@ Este proyecto está bajo la Licencia GNU General Public License v3.0 - mira el a
 
 El siguiente código es con fines didácticos.
 Referencia, repositorio: https://github.com/CodigosdeProgramacion/consumirws
+Agradecimientos Códigos de Programación CodigosdeProgramacion
