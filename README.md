@@ -26,3 +26,5 @@ Este proyecto está bajo la Licencia GNU General Public License v3.0 - mira el a
 * Invita una cerveza 🍺 o un café ☕ [Da clic aquí](https://www.paypal.com/paypalme/markorobles?locale.x=es_XC.) 
 * Da las gracias públicamente 🤓.
 
+El siguiente código es con fines didácticos.
+Referencia, repositorio: https://github.com/CodigosdeProgramacion/consumirws
